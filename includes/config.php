@@ -16,10 +16,25 @@ function config($key = '')
             'about-us' => 'About Us',
             'products' => 'Products',
             'contact' => 'Contact',
-            'halaman'=>'menu',
+            'news'=>'News',
 
-
+         ],
+        // Combine headline_title and headline_img into one 'headlines' array
+        'headlines' => [
+            'headline-1' => [
+                'title' => 'Headline 1',
+                'img'   => 'spaghetti.jpg',
+            ],
+            'headline-2' => [
+                'title' => 'Headline 2',
+                'img'   => 'spaghetti.jpg',
+            ],
+            'headline-3' => [
+                'title' => 'Headline 3',
+                'img'   => 'spaghetti.jpg',
+            ],
         ],
+
         'template_path' => 'template',
         'content_path' => 'content',
         'version' => 'v3.1',

@@ -11,6 +11,16 @@ article {
     text-align: left; 
 }
 
+.headline-item {
+    display:inline-block;
+    vertical-align: top;
+    margin: 10px;
+    background: #222;
+    padding: 20px;
+    border-radius: 6px;
+    color: #fff;
+}
+
 nav .item {
     text-decoration: none;
 }

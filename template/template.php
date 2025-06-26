@@ -14,7 +14,8 @@
         <h1><?php site_name(); ?></h1>
         <nav class="menu">
             <?php nav_menu(); ?>
-        </nav>
+      </nav>
+         <?php headline_print(); ?>    
     </header>
 
     <article>
