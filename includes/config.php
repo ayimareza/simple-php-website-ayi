@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Simple Menu Resep Makanan',
         'site_url' => '',
         'pretty_uri' => false,
         'nav_menu' => [
@@ -22,16 +22,19 @@ function config($key = '')
         // Combine headline_title and headline_img into one 'headlines' array
         'headlines' => [
             'headline-1' => [
-                'title' => 'Headline 1',
+                'title' => 'Menu Mie simple',
                 'img'   => 'spaghetti.jpg',
+                'url'   => '/article/headline-1',
             ],
             'headline-2' => [
-                'title' => 'Headline 2',
-                'img'   => 'spaghetti.jpg',
+                'title' => 'Menu soup Kaldu',
+                'img'   => 'soup.jpg',
+                'url'   => '/article/headline-1',
             ],
             'headline-3' => [
-                'title' => 'Headline 3',
-                'img'   => 'spaghetti.jpg',
+                'title' => 'Pancakes simple',
+                'img'   => 'pancakes background.jpg',
+                'url'   => '/article/headline-1',
             ],
         ],
 
