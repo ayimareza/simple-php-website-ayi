@@ -29,12 +29,12 @@ function config($key = '')
             'headline-2' => [
                 'title' => 'Menu soup Kaldu',
                 'img'   => 'soup.jpg',
-                'url'   => '/article/headline-1',
+                'url'   => '/article/headline-2',
             ],
             'headline-3' => [
                 'title' => 'Pancakes simple',
                 'img'   => 'pancakes background.jpg',
-                'url'   => '/article/headline-1',
+                'url'   => '/article/headline-3',
             ],
         ],
 
