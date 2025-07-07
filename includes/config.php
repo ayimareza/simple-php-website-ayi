@@ -22,17 +22,17 @@ function config($key = '')
         // Combine headline_title and headline_img into one 'headlines' array
         'headlines' => [
             'headline-1' => [
-                'title' => 'Menu Mie simple',
+                'title' => 'Menu Mie Simple',
                 'img'   => 'spaghetti.jpg',
                 'url'   => '/article/headline-1',
             ],
             'headline-2' => [
-                'title' => 'Menu soup Kaldu',
+                'title' => 'Menu Soup Kaldu',
                 'img'   => 'soup.jpg',
                 'url'   => '/article/headline-2',
             ],
             'headline-3' => [
-                'title' => 'Pancakes simple',
+                'title' => 'Pancakes Simple',
                 'img'   => 'pancakes background.jpg',
                 'url'   => '/article/headline-3',
             ],

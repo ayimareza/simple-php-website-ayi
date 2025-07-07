@@ -1,11 +1,11 @@
 .nav_menu {
-    color: aquamarine;
+    color: rgb(255, 249, 127);
 }
 .wrap { 
     padding: 25px; 
     text-align: center; 
     box-shadow: 0 4px 25px -4px #9da5ab; 
-    background-color: gray;
+    background-color:aqua;
 }
 article { 
     padding: 25px 0; 
@@ -17,7 +17,7 @@ article {
     display:inline-block;
     vertical-align: top;
     margin: 10px;
-    background: #222;
+    background:yellow;
     padding: 20px;
     border-radius: 6px;
     color: #fff;
@@ -39,4 +39,7 @@ nav .active {
         padding: 30px 40px;
     }
 }
-    
+.box-gamok {
+    text-align: center;
+    padding: 20px ;
+}
