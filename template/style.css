@@ -39,7 +39,32 @@ nav .active {
         padding: 30px 40px;
     }
 }
-.box-gamok {
+.box-gomak {
+ text-align: center;   
+ color:blue;
+
+}
+.Pengantar h3 {
     text-align: center;
-    padding: 20px ;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mie-bakso h1 {
+    text-align: center;
+    
+}
+.mie-bakso h4 {
+    text-align: center;
+}
+.mie-bakso P {
+    text-align: center;   
+}
+.Pengantar2 h2 {
+    text-align: center;
+}
+.Soup sosis h3 {
+    text-align: center;
+}
+.Soup sosis h2 {
+    text-align: center;
 }
